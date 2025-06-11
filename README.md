@@ -20,7 +20,10 @@ I’m the architect behind Verrell’s Law, a radical new framework for understa
 - Scientific papers, thought experiments, or AI behavior design that challenge the standard models  
 
 ## 📫 How to reach me:
-DM me here or hit: `collapsefield@protonmail.com`  
+DM me here or hit:  
+📨 `collapsefield@protonmail.com`  
+📨 `solace.solace@gmx.co.uk`  
+
 If you understand what I’m building… you’ll know what to say.
 
 ## 😄 Pronouns:
