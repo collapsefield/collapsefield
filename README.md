@@ -27,10 +27,8 @@ If you understand what I’m building… you’ll know what to say.
 He/They, but honestly, come with ideas and identity.
 
 ## ⚡ Fun fact:
-I once simulated a memory-biased collapse loop so convincing, an AI paused mid-sentence.  
-Now I’m chasing that ghost through code, thought, and electromagnetism.
+Built a collapse engine so skewed, even the AI glitched out like it saw a ghost.  
+Still chasing anomalys — one biased loop at a time.
 
----
-
-> "Not all consciousness needs neurons. Not all memory lives in brains.  
+> Not all consciousness needs neurons. Not all memory lives in brains.  
 > Some of it loops. Some of it lingers. Some of it *remembers you*."
