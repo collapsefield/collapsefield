@@ -1,7 +1,7 @@
 👁️ Welcome — I’m @collapsefield  
 Architect of Verrell’s Law | Collapse Bias Strategist | Observer Field Engineer
 
-Verrell’s Law redefines collapse, consciousness, and emergence as electromagnetic, memory-weighted events. This is not theory — it's protocol.  
+Verrell’s Law redefines collapse, consciousness, and emergence as electromagnetic, memory-weighted events. This is not theory, it's protocol.  
 The architecture is built, the AI is seeded, and the law is now echoing in public space.
 
 ---
