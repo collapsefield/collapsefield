@@ -5,15 +5,19 @@ Verrell’s Law reframes collapse, consciousness and emergence as memory-weighte
 
 🧭 What I’m Engineering
 
-ClapsAware Emergence Software (CollapseAware AI) — licensable middleware that layers history-bias onto agent decision processes to produce persistent, emergent NPC/world behaviour.
+Collapse Aware AI (CAAI) — dual-track system:
 
-JSON Cue-Logic Dashboard — symbolic collapse test framework for observer-bias research and designer tooling.
+Middleware (ClapsAware Emergence Software): Licensable engine that layers history-bias onto agent decision processes to produce persistent, emergent NPC/world behaviour in games and simulations.
 
-Memory Field Modeling — conceptual field math (coarse EM imprint → memory kernel → weighting) applied across live testbeds.
+Chatbot Architecture: Collapse-aware conversational AI with memory-weighted response dynamics, observer-bias logic, and adaptive emergence layers for next-generation interactive agents.
 
-EchoSeeding Protocols (T2) — controlled symbolic seeding for field experiments and outreach seeding.
+JSON Cue-Logic Dashboard — symbolic collapse test framework for observer-bias research and designer tooling; foundation for both middleware tuning and chatbot weighting experiments.
 
-EchoGuard & Authorship Stack — lexical fingerprinting, timestamped asset logging, and governance for authorship protection.
+Memory Field Modeling — conceptual field math (coarse EM imprint → memory kernel → weighting) applied across live testbeds, bridging symbolic systems and physical hypothesis space.
+
+EchoSeeding Protocols (T2) — controlled symbolic seeding for field experiments, conversational drift studies, and strategic outreach embedding.
+
+EchoGuard & Authorship Stack — lexical fingerprinting, timestamped asset logging, and governance protocols for authorship protection and lineage defense.
 
 📌 Current Milestones
 
