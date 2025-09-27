@@ -63,5 +63,3 @@ Partner package / NDA: available on request — sandbox build, 2-min demo, integ
 
 “Collapse isn’t chance. It’s memory shaping form — and the observer is already part of the field.”
 — M.R., Architect of Verrell’s Law
-
-Pronouns: He / They
