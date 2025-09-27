@@ -52,7 +52,7 @@ EchoGuard Protocol — authorship & integrity layer for asset provenance
 
 🔗 Primary node: https://verrellslaw.org
 
-📦 Public repo (redacted): github.com/<your-account>/ClapsAware-Emergence-Software
+📦 Public repo (redacted): github.com/<your-account>/CollapseAware-Emergence-Software
 📨 Contact nodes:
 
 collapsefield@protonmail.com
