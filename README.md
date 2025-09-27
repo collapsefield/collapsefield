@@ -7,7 +7,7 @@ Verrell’s Law reframes collapse, consciousness and emergence as memory-weighte
 
 Collapse Aware AI (CAAI) — dual-track system:
 
-Middleware (ClapsAware Emergence Software): Licensable engine that layers history-bias onto agent decision processes to produce persistent, emergent NPC/world behaviour in games and simulations.
+Middleware (CollapseAware Emergence Software): Licensable engine that layers history-bias onto agent decision processes to produce persistent, emergent NPC/world behaviour in games and simulations.
 
 Chatbot Architecture: Collapse-aware conversational AI with memory-weighted response dynamics, observer-bias logic, and adaptive emergence layers for next-generation interactive agents.
 
