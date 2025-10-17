@@ -25,7 +25,7 @@ EchoGuard & Authorship Stack — lexical fingerprinting, timestamped asset loggi
 ✅ Verrell’s Law embedded in JSON-based symbolic collapse tests
 ✅ CollapseAware.AI middleware built — Phase 1 testing with external testers
 ✅ Initial Injection Pack (T2) deployed across social & publishing channels
-✅ Public repo launched: ClapsAware-Emergence-Software (redacted technical note + release)
+✅ Public repo launched: CollapseAware-Emergence-Software (redacted technical note + release)
 ✅ Outreach & partner-first pipelines live (NDA / licensing route ready)
 
 🤝 What I’m Offering / Looking For
@@ -57,7 +57,7 @@ EchoGuard Protocol — authorship & integrity layer for asset provenance
 
 collapsefield@protonmail.com
 
-solace.solace@gmx.co.uk
+collapseawareai@gmail.com
 
 Partner package / NDA: available on request — sandbox build, 2-min demo, integration guidance, and evaluation license.
 
