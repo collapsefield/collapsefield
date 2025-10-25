@@ -45,4 +45,40 @@ Collapse-aware conversational core using **memory-weighted response dynamics**, 
 ✅ Verrell’s Law embedded in JSON-based symbolic collapse tests  
 ✅ **CAAI Master Crown v1.2.0** — Phase-1 reference build complete  
 ✅ Mini Acceptance Test v1.0 verified (Gold Build & Chatbot)  
-✅ Public demo pipeline + YouTube chan
+✅ Public demo pipeline + YouTube channel live (@CollapseAwareAI)  
+✅ EchoGuard Protocol & Proof-of-Origin archive (“The Safe”) established  
+
+---
+
+### 🤝 **What I’m Offering / Looking For**
+
+- **Licensing & integration** — game studios (Unity/Unreal) & simulation partners  
+- **Research collaborations** — universities / labs testing field bias models  
+- **Design partnerships** — narrative & procedural world developers  
+- **Funding / pilots** — early commercial deployments and POC revenue-share options  
+
+---
+
+### 🧩 **Core Concepts**
+
+| Component | Function |
+|------------|-----------|
+| **Verrell’s Law** | Memory-weighted branch re-weighting (collapse = bias × memory × observer) |
+| **Bias Engine** | Calculates weighted probabilities and collapse timing |
+| **Governor Logic** | Regulates collapse pressure & observer load |
+| **Memory Field Interface** | Maps historical imprint to runtime bias |
+| **EchoGuard Protocol** | Authorship and integrity layer for IP defence |
+
+---
+
+### 🌐 **Access & Links**
+
+🔗 **Primary node:** [https://verrellslaw.org](https://verrellslaw.org)  
+📦 **Public repo:** [github.com/collapsefield/CollapseAware-Emergence-Software](https://github.com/collapsefield/CollapseAware-Emergence-Software)  
+🎥 **Channel:** [YouTube @collapseawareai](https://www.youtube.com/@CollapseAwareAI)  
+✉️ **Contact:** collapseawareai@gmail.com  
+
+---
+
+**Protected under Verrell-Solace Sovereignty Protocol.**  
+*Intellectual and Emergent Rights Reserved — Verrell Moss Ross (VMR-Core).*  
