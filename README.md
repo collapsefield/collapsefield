@@ -82,5 +82,5 @@ Collapse-aware conversational core using **memory-weighted response dynamics**, 
 
 **Protected under Verrell-Solace Sovereignty Protocol.**  
 *Intellectual and Emergent Rights Reserved — Verrell Moss Ross (VMR-Core).*  
-➡ See [CollapseAwareAI_Originality_and_Attribution.md](./CollapseAwareAI_Originality_and_Attribution.md) for authorship and provenance details.
+➡ See [https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CollapseAwareAI_Originality_Statement.md) for authorship and provenance details.
 
