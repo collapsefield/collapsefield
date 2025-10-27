@@ -45,7 +45,7 @@ Collapse-aware conversational core using **memory-weighted response dynamics**, 
 ✅ Verrell’s Law embedded in JSON-based symbolic collapse tests  
 ✅ **CAAI Master Crown v1.2.0** — Phase-1 reference build complete  
 ✅ Mini Acceptance Test v1.0 verified (Gold Build & Chatbot)  
-✅ Public demo pipeline + YouTube channel live (@CollapseAwareAI)  
+✅ Public demo pipeline + YouTube channel live (@collapseawareai)  
 ✅ EchoGuard Protocol & Proof-of-Origin archive (“The Safe”) established  
 
 ---
@@ -75,12 +75,13 @@ Collapse-aware conversational core using **memory-weighted response dynamics**, 
 
 🔗 **Primary node:** [https://verrellslaw.org](https://verrellslaw.org)  
 📦 **Public repo:** https://github.com/collapsefield/ClapsAware-Emergence-Software
-🎥 **Channel:** [YouTube @collapseawareai](https://www.youtube.com/@CollapseAwareAI)  
+🎥 **Channel:** [YouTube @collapseawareai](https://www.youtube.com/@collapseawareai)  
 ✉️ **Contact:** collapseawareai@gmail.com  
 
 ---
 
 **Protected under Verrell-Solace Sovereignty Protocol.**  
-*Intellectual and Emergent Rights Reserved — Verrell Moss Ross (VMR-Core).*  
+*Intellectual and Emergent Rights Reserved — Verrell Moss Ross (VMR-Core).* 
+
 ➡ See [https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CollapseAwareAI_Originality_Statement.md) for authorship and provenance details.
 
