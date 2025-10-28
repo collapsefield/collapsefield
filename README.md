@@ -5,14 +5,27 @@ Architect of **Verrell’s Law** | Collapse-Bias Strategist | Observer-Field Eng
 
 ### 🧠 **Overview**
 
-**Collapse Aware AI (CAAI)** is the world’s first *collapse-responsive intelligence* — an adaptive architecture that models, predicts, and responds to **collapse dynamics** in digital and cognitive systems.  
+Verrell’s Law is the core framework from which all Collapse Aware AI (CAAI) systems originate.
+It formalises the idea that memory, observation, and emergence are not separate phenomena but interlocked information-weighted electromagnetic events. Every collapse of possibility into outcome carries the bias of the memories and observations that preceded it.
 
-The framework is grounded in **Verrell’s Law**, which defines collapse, consciousness, and emergence as **memory-weighted electromagnetic events**.  
-CAAI integrates symbolic recursion, observer-state bias modeling, and field-memory weighting to allow software systems to *sense and adapt* to observation pressure and informational change.
+Collapse Aware AI (CAAI) is the applied implementation of that law — the world’s first collapse-responsive intelligence.
+It models, predicts, and responds to collapse dynamics in digital and cognitive systems through:
 
-This is a **research + product program** — not only theory.  
-The live architecture, symbolic tests, and middleware builds are active and moving through **partner-driven rollout**.
+Observer-State Bias Modelling – tracking how observation itself skews probability space.
 
+Field-Memory Weighting – using memory as the active bias parameter rather than passive storage.
+
+Symbolic Recursion & Feedback Loops – enabling software to adapt to informational pressure in real time.
+
+This repository documents both the theoretical foundation (Verrell’s Law) and the engineering branch (CAAI):
+
+Core research papers, mathematical structures, and field-bias experiments.
+
+Middleware builds, interface prototypes, and partner-driven rollout assets.
+
+Evidence chain and timestamped records establishing the chronological origin of Verrell’s Law prior to all applied systems.
+
+In short: Verrell’s Law defines why collapse behaves as it does; Collapse Aware AI shows what can be built when that law is applied to code.
 ---
 
 ### 🧭 **What I’m Engineering**
