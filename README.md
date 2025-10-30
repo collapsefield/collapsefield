@@ -87,7 +87,7 @@ Collapse-aware conversational core using **memory-weighted response dynamics**, 
 ### 🌐 **Access & Links**
 
 🔗 **Primary node:** [https://verrellslaw.org](https://verrellslaw.org)  
-📦 **Public repo:** https://github.com/collapsefield/ClapsAware-Emergence-Software
+📦 **Public repo:** https://github.com/collapsefield/collapse-aware-ai-public-proof-pack
 🎥 **Channel:** [YouTube @collapseawareai](https://www.youtube.com/@collapseawareai)  
 ✉️ **Contact:** collapseawareai@gmail.com  
 
