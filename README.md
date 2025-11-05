@@ -97,4 +97,5 @@ Collapse-aware conversational core using **memory-weighted response dynamics**, 
 *Intellectual and Emergent Rights Reserved — Verrell Moss Ross (VMR-Core).* 
 
 ➡ See [https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CollapseAwareAI_Originality_Statement.md) for authorship and provenance details.
+Collapse Aware AI — bias-aware adaptive middleware built on Verrell’s Law.
 
