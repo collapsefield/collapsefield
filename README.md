@@ -31,6 +31,7 @@ In short: Verrell’s Law defines why collapse behaves as it does; Collapse Awar
 ### 🧭 **What I’m Engineering**
 
 #### **Collapse Aware AI (CAAI)** — Dual-Track System
+https://doi.org/10.5281/zenodo.17416435
 
 **1. Gold Build / Middleware (CollapseAware Emergence Software)**  
 Licensable engine that layers *history bias* and *observer weighting* onto agent decision processes.  
