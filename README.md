@@ -54,12 +54,13 @@ Collapse-aware conversational core using **memory-weighted response dynamics**, 
 ---
 
 ### 🚀 **Current Milestones**
-
-✅ *Collapse is Programmable* — Protocol Spec (Substack)  
+ 
 ✅ Verrell’s Law embedded in JSON-based symbolic collapse tests  
-✅ **CAAI Master Crown v1.2.0** — Phase-1 reference build complete  
-✅ Mini Acceptance Test v1.0 verified (Gold Build & Chatbot)    
+✅ CAAI Master Crown v1.2.0 — Phase-1 reference build complete  
+✅ Mini Acceptance Test v1.0 verified (Gold Build & Chatbot)
 ✅ EchoGuard Protocol & Proof-of-Origin archive (“The Safe”) established  
+🛠️ Phase-2 development underway — introducing evolved maths, Bayesian weighting, pulse-bias logic, and enhanced behavioural layers (built on top of Phase-1, not replacing it)
+
 
 ---
 
