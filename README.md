@@ -8,7 +8,7 @@ Architect of **Verrell’s Law** | Collapse-Bias Strategist | Observer-Field Eng
 Verrell’s Law is the core framework from which all Collapse Aware AI (CAAI) systems originate.
 It formalises the idea that memory, observation, and emergence are not separate phenomena but interlocked information-weighted electromagnetic events. Every collapse of possibility into outcome carries the bias of the memories and observations that preceded it.
 
-Collapse Aware AI (CAAI) is the applied implementation of that law — the world’s first collapse-responsive intelligence.
+Collapse Aware AI (CAAI) is the applied implementation of that law, the world’s first collapse-responsive intelligence.
 It models, predicts, and responds to collapse dynamics in digital and cognitive systems through:
 
 Observer-State Bias Modelling – tracking how observation itself skews probability space.
