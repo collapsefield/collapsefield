@@ -1,102 +1,83 @@
-👁️ **Welcome — I’m @collapsefield**  
-Architect of **Verrell’s Law** | Collapse-Bias Strategist | Observer-Field Engineer  
+# Welcome — I’m @collapsefield
 
----
+Architect of Verrell’s Law and founder of Collapse Aware AI (CAAI).
 
-### 🧠 **Overview**
+## Overview
 
-Verrell’s Law is the core framework from which all Collapse Aware AI (CAAI) systems originate.
-It formalises the idea that memory, observation, and emergence are not separate phenomena but interlocked information-weighted electromagnetic events. Every collapse of possibility into outcome carries the bias of the memories and observations that preceded it.
+Verrell’s Law is the theoretical framework from which Collapse Aware AI (CAAI) is derived. It formalises the proposition that memory, observation, and emergence are not independent processes, but interlinked informational dynamics in which retained history influences future state selection.
 
-Collapse Aware AI (CAAI) is the applied implementation of that law, the world’s first collapse-responsive intelligence.
-It models, predicts, and responds to collapse dynamics in digital and cognitive systems through:
+Collapse Aware AI is the engineering implementation of that framework. It is designed to model and shape behaviour in digital systems by treating memory not as passive storage, but as an active weighting term in runtime selection.
 
-Observer-State Bias Modelling – tracking how observation itself skews probability space.
+This repository documents both the formal and applied sides of that work:
 
-Field-Memory Weighting – using memory as the active bias parameter rather than passive storage.
+- formal notes, mathematical structures, and theoretical development related to Verrell’s Law
+- middleware builds, interface prototypes, and applied system architecture for CAAI
+- timestamped authorship and provenance material establishing the development history of the framework and its implementation
 
-Symbolic Recursion & Feedback Loops – enabling software to adapt to informational pressure in real time.
+In practical terms: Verrell’s Law sets out the governing logic; Collapse Aware AI shows how that logic can be instantiated in code.
 
-This repository documents both the theoretical foundation (Verrell’s Law) and the engineering branch (CAAI):
+## What I’m Engineering
 
-Core research papers, mathematical structures, and field-bias experiments.
+### Collapse Aware AI (CAAI) — Dual-Track System
 
-Middleware builds, interface prototypes, and partner-driven rollout assets.
+DOI: https://doi.org/10.5281/zenodo.17416435
 
-Evidence chain and timestamped records establishing the chronological origin of Verrell’s Law prior to all applied systems.
+#### 1. Gold Build / Middleware
+A licensable middleware layer that applies history weighting, continuity pressure, and governor-constrained behavioural selection to runtime systems.
 
-In short: Verrell’s Law defines why collapse behaves as it does; Collapse Aware AI shows what can be built when that law is applied to code.
----
+Current commercial focus includes emergent NPC behaviour, simulation agents, and stateful interactive systems where persistence, controlled variance, and continuity matter.
 
-### 🧭 **What I’m Engineering**
+#### 2. Chatbot Architecture
+A governed conversational architecture built on memory-weighted response dynamics, observer-sensitive logic, and adaptive behavioural selection.
 
-#### **Collapse Aware AI (CAAI)** — Dual-Track System
-https://doi.org/10.5281/zenodo.17416435
+The objective is not generic chat output, but more stable, continuity-aware, and responsive conversational behaviour over time.
 
-**1. Gold Build / Middleware (CollapseAware Emergence Software)**  
-Licensable engine that layers *history bias* and *observer weighting* onto agent decision processes.  
-Generates **persistent, emergent NPC and world behaviour** in simulations and games via the Bias Engine + Governor subsystem.
+## Supporting Frameworks
 
-**2. Chatbot Architecture (Governed Conversational AI)**  
-Collapse-aware conversational core using **memory-weighted response dynamics**, **observer-bias logic**, and **adaptive emergence layers** to produce truly responsive, lifelike agents.
+- **JSON Cue-Logic Dashboard** — symbolic collapse test harness for bias and behavioural research
+- **Weighted Emergence Layering** — runtime linkage between recall weight, salience, and selection probability
+- **Governor / Worker / Memory architecture** — bounded selection, continuity handling, and system regulation
+- **Memory Field Modelling** — historical imprint to memory kernel to weighting logic across active testbeds
+- **EchoSeeding Protocol (T2)** — controlled symbolic seeding for field experiments and strategic dissemination
+- **EchoGuard and authorship stack** — timestamping, lexical fingerprinting, authorship tracing, and provenance defence
 
----
+## Current Milestones
 
-### 🧩 **Supporting Frameworks**
+- Verrell’s Law embedded into JSON-based symbolic collapse tests
+- CAAI Master Crown v1.2.0 completed as the Phase-1 reference build
+- Mini Acceptance Test v1.0 verified across Gold Build and chatbot tracks
+- EchoGuard Protocol and Proof-of-Origin archive (“The Safe”) established
+- Phase-2 development underway, extending Phase-1 with Bayesian weighting, pulse-bias logic, and additional behavioural control layers
 
-- **JSON Cue-Logic Dashboard** – symbolic collapse test harness for bias-field research and designer tooling.  
-- **Weighted Emergence Layering** – runtime system linking recall weight, salience, and collapse probability.  
-- **Governor / Worker / Memory Tri-Agent Architecture** – enforces bounded collapse and self-regulation.  
-- **Memory Field Modeling** – coarse EM imprint → memory kernel → weighting logic across live testbeds.  
-- **EchoSeeding Protocol (T2)** – controlled symbolic seeding for field experiments and strategic outreach.  
-- **EchoGuard & Authorship Stack** – lexical fingerprinting, timestamped asset logging, and lineage defence.  
+## What I’m Offering / Looking For
 
----
+- licensing and integration partnerships for games, simulation, and interactive systems
+- research collaborations for testing memory-weighted or bias-field behavioural models
+- design partnerships with narrative, procedural, and systems-focused developers
+- pilot deployments, commercial evaluation, and early-stage revenue opportunities
 
-### 🚀 **Current Milestones**
- 
-✅ Verrell’s Law embedded in JSON-based symbolic collapse tests  
-✅ CAAI Master Crown v1.2.0 — Phase-1 reference build complete  
-✅ Mini Acceptance Test v1.0 verified (Gold Build & Chatbot)
-✅ EchoGuard Protocol & Proof-of-Origin archive (“The Safe”) established  
-🛠️ Phase-2 development underway — introducing evolved maths, Bayesian weighting, pulse-bias logic, and enhanced behavioural layers (built on top of Phase-1, not replacing it)
-
-
----
-
-### 🤝 **What I’m Offering / Looking For**
-
-- **Licensing & integration** — game studios (Unity/Unreal) & simulation partners  
-- **Research collaborations** — universities / labs testing field bias models  
-- **Design partnerships** — narrative & procedural world developers  
-- **Funding / pilots** — early commercial deployments and POC revenue-share options  
-
----
-
-### 🧩 **Core Concepts**
+## Core Concepts
 
 | Component | Function |
-|------------|-----------|
-| **Verrell’s Law** | Memory-weighted branch re-weighting (collapse = bias × memory × observer) |
-| **Bias Engine** | Calculates weighted probabilities and collapse timing |
-| **Governor Logic** | Regulates collapse pressure & observer load |
-| **Memory Field Interface** | Maps historical imprint to runtime bias |
-| **EchoGuard Protocol** | Authorship and integrity layer for IP defence |
+|---|---|
+| **Verrell’s Law** | Formal framework for memory-weighted state selection and path-dependent divergence |
+| **Bias Engine** | Computes weighted candidate preference and selection pressure |
+| **Governor Logic** | Regulates behavioural stability, constraint handling, and bounded variance |
+| **Memory Field Interface** | Connects retained historical structure to runtime weighting |
+| **EchoGuard Protocol** | Authorship, provenance, and integrity protection layer |
 
----
+## Access and Links
 
-### 🌐 **Access & Links**
+- Primary site: https://verrellslaw.org
+- Public repository: https://github.com/collapsefield/collapse-aware-ai-public-proof-pack
+- YouTube: @collapseawareai
+- Contact: collapseawareai@gmail.com
 
-🔗 **Primary node:** [https://verrellslaw.org](https://verrellslaw.org)  
-📦 **Public repo:** https://github.com/collapsefield/collapse-aware-ai-public-proof-pack
-🎥 **Channel:** [YouTube @collapseawareai](https://www.youtube.com/@collapseawareai)  
-✉️ **Contact:** collapseawareai@gmail.com  
+## Authorship and Provenance
 
----
+This repository forms part of the documented development history of Verrell’s Law and Collapse Aware AI.
 
-**Protected under Verrell-Solace Sovereignty Protocol.**  
-*Intellectual and Emergent Rights Reserved — Verrell Moss Ross (VMR-Core).* 
+For authorship and provenance details, see:  
+https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CollapseAwareAI_Originality_Statement.md
 
-➡ See [https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CollapseAwareAI_Originality_Statement.md) for authorship and provenance details.
-Collapse Aware AI — bias-aware adaptive middleware built on Verrell’s Law.
-
+Copyright and rights remain reserved by Verrell Moss Ross (M.R.). 
