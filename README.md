@@ -70,7 +70,7 @@ The objective is not generic chat output, but more stable, continuity-aware, and
 
 - Primary site: https://verrellslaw.org
 - Public repository: https://github.com/collapsefield/collapse-aware-ai-public-proof-pack
-- YouTube: @collapseawareai
+- YouTube: Collapse-Aware AI (CAAI)
 - Contact: collapseawareai@gmail.com
 
 ## Authorship and Provenance
