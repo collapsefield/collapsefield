@@ -51,10 +51,10 @@ The objective is not generic chat output, but more stable, continuity-aware, and
 
 ## What I’m Offering / Looking For
 
-- licensing and integration partnerships for games, simulation, and interactive systems
 - research collaborations for testing memory-weighted or bias-field behavioural models
 - design partnerships with narrative, procedural, and systems-focused developers
 - pilot deployments, commercial evaluation, and early-stage revenue opportunities
+- licensing and integration partnerships for games, simulation, and interactive systems
 
 ## Core Concepts
 
