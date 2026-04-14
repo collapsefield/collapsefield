@@ -4,15 +4,17 @@ Architect of Verrell’s Law and founder of Collapse Aware AI (CAAI).
 
 ## Overview
 
-Verrell’s Law is the theoretical framework from which Collapse Aware AI (CAAI) is derived. It formalises the proposition that memory, observation, and emergence are not independent processes, but interlinked informational dynamics in which retained history influences future state selection.
+Verrell’s Law is the theoretical framework from which Collapse Aware AI (CAAI) is derived. It sets out the proposition that memory, observation, and emergence are not independent processes, but interlinked informational dynamics in which retained history influences future state selection.
 
-Collapse Aware AI is the engineering implementation of that framework. It is designed to model and shape behaviour in digital systems by treating memory not as passive storage, but as an active weighting term in runtime selection.
+Verrell’s Law remains under active development as a working framework. Its notation, mathematical presentation, and formal structure are being continuously refined as the theory is clarified, documented, and tested.
+
+Collapse Aware AI is the engineering implementation of that framework. It is designed to model and shape behaviour in digital systems by treating memory not as passive storage, but as an active weighting term in runtime selection. Like the framework itself, the middleware remains under active development, with ongoing refinement to implementation structure, behavioural control logic, and public-facing documentation.
 
 This repository documents both the formal and applied sides of that work:
 
-- formal notes, mathematical structures, and theoretical development related to Verrell’s Law
-- middleware builds, interface prototypes, and applied system architecture for CAAI
-- timestamped authorship and provenance material establishing the development history of the framework and its implementation
+formal notes, mathematical structures, and theoretical development related to Verrell’s Law
+middleware builds, interface prototypes, and applied system architecture for CAAI
+timestamped authorship and provenance material establishing the development history of the framework and its implementation
 
 In practical terms: Verrell’s Law sets out the governing logic; Collapse Aware AI shows how that logic can be instantiated in code.
 
