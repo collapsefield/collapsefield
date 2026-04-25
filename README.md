@@ -1,85 +1,165 @@
-# Welcome — I’m @collapsefield
+# CollapseField
 
-Architect of Verrell’s Law and founder of Collapse Aware AI (CAAI).
+**Public home for Verrell’s Law and Collapse Aware AI (CAAI)**  
+**Author / Originator:** Marcos Verrell Moss Ross (M.R.)  
+**Entity:** Inappropriate Media Limited (t/a Collapse Aware AI)  
+**Contact:** collapseawareai@gmail.com
+
+---
 
 ## Overview
 
-Verrell’s Law is the theoretical framework from which Collapse Aware AI (CAAI) is derived. It sets out the proposition that memory, observation, and emergence are not independent processes, but interlinked informational dynamics in which retained history influences future state selection.
+CollapseField is the public GitHub home for two connected bodies of work:
 
-Verrell’s Law remains under active development as a working framework. Its notation, mathematical presentation, and formal structure are being continuously refined as the theory is clarified, documented, and tested.
+1. **Verrell’s Law** — a testable theoretical framework proposing that retained information from prior states can bias future state selection.
+2. **Collapse Aware AI (CAAI)** — proprietary middleware that applies memory-weighted, governor-constrained behavioural selection to digital systems.
 
-Collapse Aware AI is the engineering implementation of that framework. It is designed to model and shape behaviour in digital systems by treating memory not as passive storage, but as an active weighting term in runtime selection. Like the framework itself, the middleware remains under active development, with ongoing refinement to implementation structure, behavioural control logic, and public-facing documentation.
+The central idea across both projects is that memory should not be treated as passive history. Retained information can function as weighted influence over future behaviour, selection, or emergence.
 
-This repository documents both the formal and applied sides of that work:
+This profile links the public theory archive, public proof packs, formal notes, provenance records, and documentation layers associated with that work.
 
-formal notes, mathematical structures, and theoretical development related to Verrell’s Law
-middleware builds, interface prototypes, and applied system architecture for CAAI
-timestamped authorship and provenance material establishing the development history of the framework and its implementation
+---
 
-In practical terms: Verrell’s Law sets out the governing logic; Collapse Aware AI shows how that logic can be instantiated in code.
+## Verrell’s Law
 
-## What I’m Engineering
+Verrell’s Law proposes that system evolution may be influenced not only by present conditions and inputs, but also by retained information from prior states.
 
-### Collapse Aware AI (CAAI) — Dual-Track System
+Public-safe summary:
 
-DOI: https://doi.org/10.5281/zenodo.17416435
+> Retained information from prior states can influence future state selection, producing history-conditioned divergence even when present inputs are held constant.
 
-#### 1. Gold Build / Middleware
-A licensable middleware layer that applies history weighting, continuity pressure, and governor-constrained behavioural selection to runtime systems.
+Current status:
 
-Current commercial focus includes emergent NPC behaviour, simulation agents, and stateful interactive systems where persistence, controlled variance, and continuity matter.
+- testable hypothesis under active investigation
+- public theory archive and authorship record available
+- formal notes and experimental blueprints published
+- independent experimental validation still required
+- not presented as completed scientific proof
 
-#### 2. Chatbot Architecture
-A governed conversational architecture built on memory-weighted response dynamics, observer-sensitive logic, and adaptive behavioural selection.
+Primary repository:
 
-The objective is not generic chat output, but more stable, continuity-aware, and responsive conversational behaviour over time.
+[`collapsefield/collapsefield-verrells-law`](https://github.com/collapsefield/collapsefield-verrells-law)
 
-## Supporting Frameworks
+Start here:
 
-- **JSON Cue-Logic Dashboard** — symbolic collapse test harness for bias and behavioural research
-- **Weighted Emergence Layering** — runtime linkage between recall weight, salience, and selection probability
-- **Governor / Worker / Memory architecture** — bounded selection, continuity handling, and system regulation
-- **Memory Field Modelling** — historical imprint to memory kernel to weighting logic across active testbeds
-- **EchoSeeding Protocol (T2)** — controlled symbolic seeding for field experiments and strategic dissemination
-- **EchoGuard and authorship stack** — timestamping, lexical fingerprinting, authorship tracing, and provenance defence
+[`PUBLIC_READER_START_HERE.md`](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/PUBLIC_READER_START_HERE.md)
 
-## Current Milestones
+---
 
-- Verrell’s Law embedded into JSON-based symbolic collapse tests
-- CAAI Master Crown v1.2.0 completed as the Phase-1 reference build
-- Mini Acceptance Test v1.0 verified across Gold Build and chatbot tracks
-- EchoGuard Protocol and Proof-of-Origin archive (“The Safe”) established
-- Phase-2 development underway, extending Phase-1 with Bayesian weighting, pulse-bias logic, and additional behavioural control layers
+## Collapse Aware AI (CAAI)
 
-## What I’m Offering / Looking For
+Collapse Aware AI is proprietary middleware for governed, memory-weighted behavioural selection.
 
-- research collaborations for testing memory-weighted or bias-field behavioural models
-- design partnerships with narrative, procedural, and systems-focused developers
-- pilot deployments, commercial evaluation, and early-stage revenue opportunities
-- licensing and integration partnerships for games, simulation, and interactive systems
+It sits between a host system and an underlying model, scripted logic layer, or decision engine. Its purpose is to improve behavioural continuity over time without modifying base model weights.
 
-## Core Concepts
+CAAI uses:
 
-| Component | Function |
+- continuity memory
+- recency weighting
+- salience weighting
+- behavioural anchors
+- Governor logic
+- collapse selection over candidate behaviours
+- contract-first integration boundaries
+
+Public-safe summary:
+
+> Collapse Aware AI is a proprietary middleware layer that gives AI agents and NPCs memory-weighted behavioural continuity, governor-controlled drift prevention, and contract-first integration without modifying base model weights.
+
+Primary repository:
+
+[`collapsefield/collapse-aware-ai-public-proof-pack`](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack)
+
+Start here:
+
+[`PUBLIC_READER_START_HERE.md`](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/PUBLIC_READER_START_HERE.md)
+
+---
+
+## Public Repositories
+
+| Repository | Purpose |
 |---|---|
-| **Verrell’s Law** | Formal framework for memory-weighted state selection and path-dependent divergence |
-| **Bias Engine** | Computes weighted candidate preference and selection pressure |
-| **Governor Logic** | Regulates behavioural stability, constraint handling, and bounded variance |
-| **Memory Field Interface** | Connects retained historical structure to runtime weighting |
-| **EchoGuard Protocol** | Authorship, provenance, and integrity protection layer |
+| [`collapsefield-verrells-law`](https://github.com/collapsefield/collapsefield-verrells-law) | Official public archive for Verrell’s Law, including canonical notes, memory-position clarification, formal notes, experimental blueprints, and provenance materials. |
+| [`collapse-aware-ai-public-proof-pack`](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack) | Public proof-of-origin and documentation pack for Collapse Aware AI, including architecture framing, validation notes, and licensing-safe public materials. |
+| [`verrells-law-einstein-informational-tensor`](https://github.com/collapsefield/verrells-law-einstein-informational-tensor) | Formal physics-facing repository focused on the Ψμν informational field tensor framing and related mathematical materials. |
 
-## Access and Links
+---
 
-- Primary site: https://verrellslaw.org
-- Public repository: https://github.com/collapsefield/collapse-aware-ai-public-proof-pack
-- YouTube: Collapse-Aware AI (CAAI)
-- Contact: collapseawareai@gmail.com
+## Current Development Focus
 
-## Authorship and Provenance
+Current public development is focused on:
 
-This repository forms part of the documented development history of Verrell’s Law and Collapse Aware AI.
+- strengthening public documentation and provenance records
+- maintaining clean claim boundaries around Verrell’s Law
+- preparing Collapse Aware AI Phase-1 / Phase-1.5 integration evidence
+- publishing public-safe validation notes without exposing proprietary Crown implementation
+- preserving authorship and prior-art records through GitHub, Zenodo, and public documentation
 
-For authorship and provenance details, see:  
-https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CollapseAwareAI_Originality_Statement.md
+CAAI is currently framed as a licensable middleware architecture rather than an open-source release.
 
-Copyright and rights remain reserved by Verrell Moss Ross (M.R.). 
+---
+
+## Public Boundary
+
+These repositories are public for documentation, provenance, review, and controlled technical explanation.
+
+They do **not** disclose:
+
+- proprietary Crown kernel internals
+- production source code
+- commercial tuning parameters
+- private integration maps
+- full implementation logic
+- private development materials
+
+Public materials are intended to show that the work exists, explain the architecture, and preserve the authorship trail without giving away the sealed implementation.
+
+---
+
+## Key Concepts
+
+| Concept | Meaning |
+|---|---|
+| **Verrell’s Law** | Theory framework for memory-weighted state selection and path-dependent divergence. |
+| **Collapse Aware AI** | Middleware implementation of memory-weighted behavioural selection. |
+| **Continuity Memory** | Structured retained state used to influence future behaviour. |
+| **Recency / Salience / Anchors** | Core weighting signals used to shape behavioural selection. |
+| **Governor Logic** | Control layer for drift prevention, constraint enforcement, and stability. |
+| **Crown** | Proprietary sealed behavioural engine; not publicly released. |
+| **Proof Pack** | Public-safe documentation and provenance layer, not an open-source implementation. |
+
+---
+
+## Citation and Records
+
+Verrell’s Law / Collapse Aware AI public records include GitHub repositories, Zenodo deposits, timestamped documents, public proof packs, and authorship/provenance materials.
+
+Key DOI records:
+
+- https://doi.org/10.5281/zenodo.17392582
+- https://doi.org/10.5281/zenodo.17416435
+- https://doi.org/10.5281/zenodo.17674143
+- https://doi.org/10.5281/zenodo.19135340
+
+---
+
+## Rights and Licensing
+
+All proprietary materials, implementation details, commercial rights, Crown kernel logic, trade secrets, and unpublished materials remain reserved by **Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited (t/a Collapse Aware AI)**.
+
+Public repositories may contain documentation, proof-of-origin materials, and public-safe research notes. They should not be interpreted as open-source releases unless explicitly stated otherwise in the relevant repository licence.
+
+---
+
+## Contact
+
+For licensing, technical review, research collaboration, or attribution enquiries:
+
+**collapseawareai@gmail.com**
+
+---
+
+## Index Terms
+
+Verrell’s Law · Collapse Aware AI · CAAI · CollapseField · memory-weighted selection · behavioural middleware · continuity memory · Governor logic · Crown kernel · path-dependent divergence · informational bias · Marcos Verrell Moss Ross · Inappropriate Media Limited
