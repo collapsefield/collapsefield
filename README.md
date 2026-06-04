@@ -3,7 +3,7 @@
 **Public home for Verrell’s Law and Collapse Aware AI (CAAI)**  
 **Author / Originator:** Marcos Verrell Moss Ross (M.R.)  
 **Entity:** Inappropriate Media Limited (t/a Collapse Aware AI)  
-**Contact:** collapseawareai@gmail.com
+**Contact:** inappropriatemedia@gmx.co.uk
 
 ---
 
