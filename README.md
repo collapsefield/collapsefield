@@ -156,7 +156,7 @@ Public repositories may contain documentation, proof-of-origin materials, and pu
 
 For licensing, technical review, research collaboration, or attribution enquiries:
 
-**collapseawareai@gmail.com**
+**inappropriatemedia@gmx.co.uk**
 
 ---
 
