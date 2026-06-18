@@ -9,10 +9,19 @@
 
 ## Overview
 
-CollapseField is the public GitHub home for two connected bodies of work:
+CollapseField is the public GitHub home for two connected but distinct bodies of work:
 
-1. **Verrell’s Law** — a testable theoretical framework proposing that retained information from prior states can bias future state selection.
-2. **Collapse Aware AI (CAAI)** — proprietary middleware that applies memory-weighted, governor-constrained behavioural selection to digital systems.
+**Verrell’s Law** — a testable theoretical framework proposing that retained information from prior states can bias future state selection.
+
+**Collapse Aware AI (CAAI)** — proprietary middleware that applies memory-weighted, governor-constrained behavioural selection to digital systems.
+
+The two projects are related, but they should not be treated as the same claim.
+
+Verrell’s Law is the theoretical and research track.
+
+CAAI is the engineering track.
+
+CAAI does not require agreement with Verrell’s Law in order to be evaluated. The middleware stands or falls on its own runtime behaviour, demos, logs, and measurable outputs.
 
 The central idea across both projects is that memory should not be treated as passive history. Retained information can function as weighted influence over future behaviour, selection, or emergence.
 
