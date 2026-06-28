@@ -29,13 +29,13 @@ The shared principle is:
 
 ---
 
-## Foundational Mechanism Position — 27 June 2026
+## Foundational Mechanism Position 
 
-The current cornerstone position is:
+The cornerstone position is:
 
 > **Information does not need to exist as a separate substance or free-floating field. Information becomes active when a prior interaction leaves a persistent state-change, and that changed state constrains or biases future outcomes.**
 
-Verrell’s Law now treats **retained state** as the primary mechanism.
+Verrell’s Law treats **retained state** as the primary mechanism.
 
 Electromagnetic fields may participate in biological, computational, photonic, phononic, and measurement systems, but the law does **not** require memory to be stored as a non-local electromagnetic field.
 
@@ -55,7 +55,7 @@ Altered future selection
 Path-dependent outcome
 ```
 
-Current cornerstone file:
+Cornerstone file:
 
 [`RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md`](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md)
 
