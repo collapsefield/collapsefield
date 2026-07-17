@@ -1,8 +1,9 @@
 # CollapseField
 
 **Public home for Verrell’s Law and Collapse Aware AI (CAAI)**
-**Author / Originator:** Marcos Verrell Moss Ross (M.R.)
-**Entity:** Inappropriate Media Limited (t/a Collapse Aware AI)
+
+**Author / Originator:** Marcos Verrell Moss Ross (M.R.)  
+**Entity:** Inappropriate Media Limited, trading as Collapse Aware AI  
 **Contact:** [inappropriatemedia@gmx.co.uk](mailto:inappropriatemedia@gmx.co.uk)
 
 ---
@@ -11,222 +12,386 @@
 
 CollapseField is the public GitHub home for two connected but distinct bodies of work:
 
-**Verrell’s Law** — a testable retained-state selection framework proposing that prior state can bias future selection.
+- **Verrell’s Law** — a falsifiable retained-state selection research framework.
+- **Collapse Aware AI (CAAI)** — proprietary middleware for governed retained-state behavioural selection.
 
-**Collapse Aware AI (CAAI)** — proprietary middleware that applies governed retained-state behavioural selection to AI systems, agents, NPCs, and digital runtimes.
+The projects share a conceptual foundation, but they are not the same claim.
 
-The two projects are related, but they should not be treated as the same claim.
+```text
+Verrell’s Law
+Research hypothesis and mathematical framework
 
-Verrell’s Law is the theoretical and research track.
+Collapse Aware AI
+Engineering implementation and commercial middleware
 
-CAAI is the engineering track.
-
-CAAI does not require agreement with Verrell’s Law in order to be evaluated. The middleware stands or falls on its own runtime behaviour, demos, logs, integration evidence, and measurable outputs.
+CAAI does not require agreement with the wider theoretical interpretation of Verrell’s Law. It can be evaluated independently through runtime behaviour, reproducible demonstrations, persistence evidence, deterministic replay, integration contracts, and controlled behavioural comparisons.
 
 The shared principle is:
 
-> **The future does not arrive into a neutral system. It arrives into a system already weighted by retained state.**
+The future does not arrive into a neutral system. It arrives into a system already weighted by retained state.
 
----
-
-## Foundational Mechanism Position 
+Foundational Mechanism
 
 The cornerstone position is:
 
-> **Information does not need to exist as a separate substance or free-floating field. Information becomes active when a prior interaction leaves a persistent state-change, and that changed state constrains or biases future outcomes.**
+Information becomes operational when a prior interaction leaves a persistent state change, and that changed state constrains or biases later outcomes.
 
-Verrell’s Law treats **retained state** as the primary mechanism.
+The current Verrell’s Law framework treats retained state as the primary mechanism.
 
-Electromagnetic fields may participate in biological, computational, photonic, phononic, and measurement systems, but the law does **not** require memory to be stored as a non-local electromagnetic field.
+Electromagnetic fields may participate in biological, computational, photonic, phononic, or measurement systems where evidence supports them. The framework does not require information to exist as a separate substance or memory to be stored in a universal non-local electromagnetic field.
 
-The clarified chain is:
-
-```text
 Observation / Interaction
-        ↓
+          ↓
 State change
-        ↓
+          ↓
 Retained information
-        ↓
+          ↓
 Weighting / bias
-        ↓
+          ↓
 Altered future selection
-        ↓
+          ↓
 Path-dependent outcome
-```
 
-Cornerstone file:
+Foundational mechanism note:
 
-[`RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md`](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md)
+Retained-State Mechanism and Field Boundary
 
----
+Verrell’s Law
 
-## Verrell’s Law
-
-Verrell’s Law proposes that system evolution may be influenced not only by present conditions and inputs, but also by retained information from prior states.
+Verrell’s Law proposes that the evolution of a system may be influenced not only by its current state and present input, but also by information retained from earlier states.
 
 Public-safe summary:
 
-> **Retained state from prior interactions can influence future selection, producing history-conditioned divergence even when present inputs are held constant.**
+Retained state from prior interactions can influence later selection, producing history-conditioned divergence under matched present input.
 
-Current status:
+The non-trivial claim is not merely that memory can alter behaviour. That would be too broad to be useful.
 
-* testable research framework under active development
-* public theory archive and authorship record available
-* formal notation and experimental blueprints published
-* retained-state mechanism clarified as the current public foundation
-* electromagnetic fields treated as possible participants, not required universal carriers
-* independent experimental validation still required
-* not presented as completed scientific proof
+The sharper hypothesis predicts that changes in selection log-odds should follow a preregistered retained-state compatibility score through a stable, positive coupling within a declared test regime:
+
+ΔL=α+λΔR+ε
+
+where:
+
+ΔL is the change in selection log-odds;
+ΔR is the preregistered candidate-relative retained-state compatibility score;
+λ > 0 is the retained-state coupling within the tested regime;
+α ≈ 0 is required as a control diagnostic;
+ε is residual error with zero mean and no systematic correlation with ΔR.
+
+This is a falsifiable empirical hypothesis, not a theorem and not an asserted universal constant of nature.
+
+Canonical Mathematical Specification
+
+The current authoritative mathematical document is:
+
+Verrell’s Law — Mathematical Foundations and Falsification Protocol, Canonical Specification v1.0
+
+It defines:
+
+the principal retained-state selection hypothesis;
+all core variables and sign conventions;
+normalization and identifiability requirements;
+probabilistic and deterministic observables;
+binary and multinomial estimation;
+intercept and residual diagnostics;
+bootstrap uncertainty estimation;
+preregistration requirements;
+experimental controls;
+null and alternative hypotheses;
+explicit falsification conditions;
+the boundary between research, engineering, and speculative physical interpretation.
+
+This document supersedes earlier short-form mathematical summaries wherever wording or definitions differ.
+
+Current Scientific Status
+
+Verrell’s Law is presently:
+
+a falsifiable research framework under active investigation;
+supported by formal definitions and public experimental protocols;
+represented by timestamped public authorship and provenance records;
+open to controlled testing, refinement, reduction, or rejection;
+not yet independently validated as a general scientific law;
+not presented as established physics;
+not yet peer-reviewed through a scientific journal.
+
+A tested regime does not support the hypothesis when the fitted retained-state coupling is statistically compatible with zero, unstable across repetitions, directionally inconsistent, non-predictive out of sample, or explained by uncontrolled variables or simpler baseline models.
+
+The correct failure wording is:
+
+Not supported or refuted in the tested regime.
+
+It is not:
+
+Disproven everywhere.
 
 Primary repository:
 
-[`collapsefield/collapsefield-verrells-law`](https://github.com/collapsefield/collapsefield-verrells-law)
+collapsefield/collapsefield-verrells-law
 
-Start here:
+Public reading entry:
 
-[`PUBLIC_READER_START_HERE.md`](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/PUBLIC_READER_START_HERE.md)
+Public Reader Start Here
 
----
-
-## Collapse Aware AI (CAAI)
+Collapse Aware AI
 
 Collapse Aware AI is proprietary middleware for governed retained-state behavioural selection.
 
-It sits between a host system and an underlying model, scripted logic layer, agent runtime, or decision engine. Its purpose is to let prior retained state influence future behaviour in a bounded, governed, inspectable way without modifying base model weights.
+It sits between a host application and an underlying model, scripted system, agent runtime, NPC controller, or decision engine.
 
-CAAI uses:
-
-* continuity memory
-* retained-state scoring
-* recency weighting
-* salience weighting
-* behavioural anchors
-* Governor constraints
-* candidate behaviour selection
-* persistence and restart evidence
-* contract-first integration boundaries
-* diagnostic traces
+Its purpose is to control how retained information influences later behaviour without retraining the underlying model.
 
 Public-safe summary:
 
-> **Collapse Aware AI is proprietary middleware for governed retained-state behavioural selection. It controls how memory, continuity, anchors, and Governor constraints influence final behaviour without retraining the underlying model.**
+Collapse Aware AI is engine-agnostic middleware that governs how retained state influences final behavioural selection.
 
-Primary repository:
+CAAI is not simply memory storage.
 
-[`collapsefield/collapse-aware-ai-public-proof-pack`](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack)
+It is a runtime mechanism for deciding how retained state, present input, candidate actions, and governing constraints interact before a final behaviour is selected.
 
-Start here:
+Phase-1 Core Gold Build
 
-[`PUBLIC_READER_START_HERE.md`](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/PUBLIC_READER_START_HERE.md)
+The Phase-1 Core Gold Build is complete as a functioning and independently reviewed engineering foundation.
 
----
+The delivered system demonstrates:
 
-## Public Repositories
+retained-state candidate scoring;
+governed and studio operating modes;
+persistence and recall across restart;
+deterministic seed capture and replay;
+request and thread identity preservation;
+memory-on and governed-behaviour comparison;
+fallback honesty during degraded operation;
+request validation;
+end-to-end routing across the real runtime chain;
+reproducible evidence packages and integrity checks.
 
-| Repository                                                                                                                  | Purpose                                                                                                                                                                                   |
-| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [`collapsefield-verrells-law`](https://github.com/collapsefield/collapsefield-verrells-law)                                 | Official public archive for Verrell’s Law, including canonical notes, retained-state mechanism clarification, mathematical references, experimental blueprints, and provenance materials. |
-| [`collapse-aware-ai-public-proof-pack`](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack)               | Public proof-of-origin and documentation pack for Collapse Aware AI, including architecture framing, validation notes, and licensing-safe public materials.                               |
-| [`verrells-law-einstein-informational-tensor`](https://github.com/collapsefield/verrells-law-einstein-informational-tensor) | Formal physics-facing repository focused on the Ψμν informational field tensor framing and related mathematical materials. Historical/formal track; not required for CAAI evaluation.     |
+The demonstrated runtime route is:
 
----
+Streamlit interface
+        ↓
+Flask service
+        ↓
+Adapter layer
+        ↓
+Crown runtime
 
-## Current Development Focus
+The Core Gold Build is middleware, not a complete autonomous intelligence system.
 
-Current public development is focused on:
+It does not currently include:
 
-* preserving the authorship and priority record for Verrell’s Law and CAAI
-* maintaining clean boundaries between research claims and engineering claims
-* strengthening the retained-state mechanism statement
-* preparing Collapse Aware AI Gold Build Core / Phase-1 demonstration evidence
-* publishing public-safe validation notes without exposing proprietary Crown implementation
-* positioning CAAI as licensable middleware for governed behavioural continuity, runtime stability, and inspectable final-action selection
+an underlying language or media generator;
+unrestricted long-horizon learning;
+autonomous world modelling;
+a complete NPC simulation stack;
+production reinforcement or decay systems;
+the full Weighted Emergence Layering roadmap;
+the planned Decision Trace Layer unless separately implemented and demonstrated.
 
-CAAI is currently framed as a licensable middleware architecture rather than an open-source release.
+No developing capability should be represented publicly as part of the current build before implementation and evidence exist.
 
----
+Engineering Position
 
-## Public Boundary
+CAAI can be evaluated without accepting any proposed physical interpretation of Verrell’s Law.
 
-These repositories are public for documentation, provenance, review, and controlled technical explanation.
+A technical reviewer may reject the wider theory and still assess CAAI through:
 
-They do **not** disclose:
+runtime execution;
+behavioural comparisons;
+retained-state persistence;
+deterministic replay;
+failure handling;
+API contracts;
+integration evidence;
+repeatable demonstrations;
+measurable selection changes.
 
-* proprietary Crown kernel internals
-* production source code
-* commercial tuning parameters
-* private integration maps
-* full implementation logic
-* private development materials
+CAAI demonstrates that governed retained-state selection can be engineered.
 
-Public materials are intended to show that the work exists, explain the architecture, preserve the authorship trail, and establish the research/engineering boundary without giving away the sealed implementation.
+It does not, by itself, prove that the same mechanism is a universal law of biological or physical systems.
 
----
+Primary public proof repository:
 
-## Key Concepts
+collapsefield/collapse-aware-ai-public-proof-pack
 
-| Concept                               | Meaning                                                                                                |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| **Verrell’s Law**                     | Research framework for retained-state selection and path-dependent divergence.                         |
-| **Retained State**                    | Prior interaction/state-change preserved long enough to influence later outcomes.                      |
-| **Active Information Weight (AIW)**   | Measurable influence of retained prior information on future selection probability.                    |
-| **Weighted Emergence Layering (WEL)** | Public bridge concept for how retained information becomes structured influence over future selection. |
-| **Collapse Aware AI**                 | Middleware implementation of governed retained-state behavioural selection.                            |
-| **Continuity Memory**                 | Structured retained state used to influence future behaviour.                                          |
-| **Recency / Salience / Anchors**      | Weighting signals used to shape behavioural selection.                                                 |
-| **Governor Logic**                    | Control layer for drift prevention, constraint enforcement, and stability.                             |
-| **Crown**                             | Proprietary sealed behavioural engine; not publicly released.                                          |
-| **Proof Pack**                        | Public-safe documentation and provenance layer, not an open-source implementation.                     |
+Public reading entry:
 
----
+CAAI Public Reader Start Here
 
-## Claim Boundary
+Memory-Weighted Selection Paper
 
-CollapseField uses explicit claim boundaries.
+The engineering-facing formal paper has a separate repository:
 
-* Verrell’s Law is not presented as established physics.
-* CAAI should be evaluated as engineering.
-* Electromagnetic fields may participate in retained-state effects, but they are not claimed as the only possible carrier.
-* Simulation theory is not required.
-* Non-local personal memory is not claimed as established.
-* The core research claim remains testable: retained state should produce measurable, repeatable divergence under controlled conditions.
+collapsefield/memory-weighted-selection
 
-Plain version:
+Resources:
 
-> **The past affects the future because the past changes the state of the world. That changed state can persist. When future events arrive, they encounter a world already weighted by what happened before.**
+Compiled paper
+LaTeX source and figures
+Quantum-memory and carbon-adjacent evidence note
 
----
+The paper formalises middleware-level memory-weighted candidate selection under explicit governor constraints.
 
-## Citation and Records
+It does not claim:
 
-Verrell’s Law / Collapse Aware AI public records include GitHub repositories, Zenodo deposits, timestamped documents, public proof packs, and authorship/provenance materials.
+quantum implementation;
+machine consciousness;
+established new physics;
+disclosure of proprietary Crown internals.
+Public Repositories
+Repository	Role
+collapsefield-verrells-law	Official public archive for Verrell’s Law, including the canonical mathematical protocol, mechanism boundaries, falsification rules, experimental notes, and provenance materials.
+collapse-aware-ai-public-proof-pack	Public-safe proof, architecture, validation, status, provenance, and licensing-facing documentation for Collapse Aware AI.
+memory-weighted-selection	Engineering paper formalising governed memory-weighted candidate selection without exposing production implementation details.
+verrells-law-einstein-informational-tensor	Historical and physics-facing tensor work. This repository is not required for evaluating CAAI or the current retained-state framework.
+Current Development Focus
+
+Current work is focused on:
+
+licensing and evaluation discussions for the Phase-1 Core Gold Build;
+preparing controlled demonstrations for prospective commercial users;
+preserving clear evidence and authorship trails;
+maintaining strict separation between engineering claims and wider theory;
+extending the Core Gold Build through bounded, separately testable layers;
+developing the Decision Trace Layer;
+designing outcome recording and evaluation infrastructure;
+preparing future Weighted Emergence Layering components;
+protecting proprietary implementation details while publishing enough evidence for meaningful technical review.
+
+CAAI is being positioned as licensable middleware rather than an open-source implementation.
+
+Potential application areas include:
+
+governed AI agents;
+simulation and safety systems;
+regulated or auditable decision runtimes;
+behavioural continuity for digital characters;
+research platforms;
+compliance-sensitive AI infrastructure;
+controlled agent and NPC behaviour.
+Key Concepts
+Concept	Meaning
+Verrell’s Law	Falsifiable research framework for retained-state selection and history-conditioned divergence.
+Retained State	A prior interaction or state change preserved long enough to influence a later outcome.
+Retained-State Compatibility	A preregistered score describing how strongly retained information favours or opposes a candidate outcome.
+Active Information Weight (AIW)	Measurable influence of retained prior information on later selection probability.
+Weighted Emergence Layering (WEL)	Public roadmap concept for structuring retained information into bounded behavioural influence.
+Collapse Aware AI	Proprietary middleware for governed retained-state behavioural selection.
+Governor	Constraint and control layer that bounds retained-state influence and reduces uncontrolled drift.
+Crown	Proprietary sealed behavioural runtime.
+Core Gold Build	Completed Phase-1 middleware foundation.
+Proof Pack	Public-safe evidence and provenance layer, not an open-source product release.
+Collapse	Resolution of competing candidates into a selected outcome.
+Research, Engineering, and Physical Interpretation
+
+The work is divided into three explicit layers:
+
+Verrell’s Law
+Falsifiable mathematical and empirical hypothesis
+        ↓
+Collapse Aware AI
+Governed engineering implementation
+        ↓
+Physical interpretation
+Separate question requiring independent evidence
+
+These layers must not be conflated.
+
+A successful CAAI demonstration establishes an engineering result.
+
+It does not automatically establish:
+
+consciousness;
+quantum collapse;
+electromagnetic causation;
+non-local memory;
+biological equivalence;
+a universal law of nature.
+
+A measured retained-state effect in one tested regime is evidence about that regime. Transfer to other systems must be demonstrated rather than assumed.
+
+Public Boundary
+
+These repositories exist for:
+
+public documentation;
+authorship and provenance;
+controlled technical review;
+experimental clarity;
+commercial orientation;
+falsifiable research communication.
+
+They do not disclose:
+
+proprietary Crown source code;
+production scoring logic;
+production thresholds;
+private schemas;
+commercial tuning parameters;
+secret integration details;
+confidential development materials;
+complete implementation mechanics.
+
+Public descriptions explain the system without releasing the sealed implementation.
+
+Claim Boundaries
+
+CollapseField uses explicit claim boundaries:
+
+Verrell’s Law is not presented as established physics.
+Verrell’s Law is not presented as independently validated.
+The current mathematical framework uses standard statistical and selection machinery.
+The proposed contribution is the specific retained-state hypothesis and its test protocol, not invention of softmax, logistic regression, memory, or state dependence.
+CAAI is evaluated as software and middleware.
+CAAI does not prove the wider physical interpretation.
+Electromagnetic or field-based effects remain optional research extensions unless directly measured.
+Simulation theory is not required.
+Non-local personal memory is not claimed as established.
+Current engineering capabilities must not be confused with planned Phase-2 features.
+Proprietary Crown internals remain confidential.
+
+Plain-language position:
+
+The past affects the future because prior events can change the state of a system. When that change persists, later inputs encounter a system already weighted by what happened before. Verrell’s Law turns that idea into a narrower quantitative hypothesis. Collapse Aware AI turns it into governed engineering.
+
+Evidence and Records
+
+Public records include:
+
+GitHub repositories;
+timestamped commits;
+Zenodo deposits;
+mathematical specifications;
+experimental protocols;
+public proof packs;
+validation notes;
+provenance and authorship materials.
 
 Key DOI records:
 
-* https://doi.org/10.5281/zenodo.17392582
-* https://doi.org/10.5281/zenodo.17416435
-* https://doi.org/10.5281/zenodo.17674143
-* https://doi.org/10.5281/zenodo.19135340
+10.5281/zenodo.17392582
+10.5281/zenodo.17416435
+10.5281/zenodo.17674143
+10.5281/zenodo.19135340
+Rights and Licensing
 
----
+All proprietary materials, implementation details, commercial rights, Crown runtime logic, trade secrets, and unpublished work remain reserved by:
 
-## Rights and Licensing
+Marcos Verrell Moss Ross (M.R.)
+Inappropriate Media Limited, trading as Collapse Aware AI
 
-All proprietary materials, implementation details, commercial rights, Crown kernel logic, trade secrets, and unpublished materials remain reserved by **Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited (t/a Collapse Aware AI)**.
+Public repositories may contain research notes, documentation, evidence, and proof-of-origin material.
 
-Public repositories may contain documentation, proof-of-origin materials, and public-safe research notes. They should not be interpreted as open-source releases unless explicitly stated otherwise in the relevant repository licence.
+They must not be interpreted as open-source releases unless a repository explicitly states otherwise through its licence.
 
----
+Commercial use, implementation access, licensing, integration support, and technical evaluation are available only by agreement with the rights holder.
 
-## Contact
+Contact
 
-For licensing, technical review, research collaboration, or attribution enquiries:
+For licensing, evaluation discussions, technical review, research collaboration, attribution, or commercial enquiries:
 
-**[inappropriatemedia@gmx.co.uk](mailto:inappropriatemedia@gmx.co.uk)**
+inappropriatemedia@gmx.co.uk
 
----
+Index Terms
 
-## Index Terms
-
-Verrell’s Law · Collapse Aware AI · CAAI · CollapseField · retained-state selection · memory-weighted selection · behavioural middleware · continuity memory · Governor logic · Crown kernel · path-dependent divergence · informational bias · Active Information Weight · Weighted Emergence Layering · Marcos Verrell Moss Ross · Inappropriate Media Limited
+Verrell’s Law · Collapse Aware AI · CAAI · CollapseField · retained-state selection · retained-state compatibility · memory-weighted selection · behavioural middleware · governed AI · deterministic replay · continuity memory · Governor · Crown runtime · Core Gold Build · path-dependent divergence · Active Information Weight · Weighted Emergence Layering · falsification protocol · Marcos Verrell Moss Ross · Inappropriate Media Limited
