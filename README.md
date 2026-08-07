@@ -125,7 +125,6 @@ Verrell’s Law is presently:
 - represented by timestamped public authorship and provenance records;
 - open to controlled testing, refinement, reduction, or rejection;
 - not yet independently validated as a general scientific law;
-- not presented as established physics;
 - not yet peer-reviewed through a scientific journal.
 
 A tested regime does not support the hypothesis when the fitted retained-state coupling is statistically compatible with zero, unstable across repetitions, directionally inconsistent, non-predictive out of sample, or explained by uncontrolled variables or simpler baseline models.
