@@ -1,139 +1,102 @@
 # CollapseField
 
-**Public home for Verrell’s Law and Collapse Aware AI (CAAI)**
+**Public home for Collapse Aware AI (CAAI) and the separate Verrell’s Law research track**
 
-**Author / Originator:** Marcos Verrell Moss Ross (M.R.)  
 **Entity:** Inappropriate Media Limited, trading as Collapse Aware AI  
 **Commercial contact:** collapseawareai@gmail.com
 
 ---
 
-## Two related but separate tracks
-
-CollapseField contains two connected bodies of work that should not be conflated:
-
-- **Verrell’s Law** — a proposed, falsifiable retained-state selection research framework.
-- **Collapse Aware AI (CAAI)** — proprietary middleware for retained-state behavioural selection.
-
-CAAI does not depend on proving Verrell’s Law as physics. The software can be evaluated independently through runtime behaviour, repeatable controlled scenarios, persistence, replay, Decision Records and integration evidence.
-
----
-
 # Collapse Aware AI — current engineering position
 
-The old public position that CAAI is only a Phase-1 Core Gold build with Phase-2 still merely planned is now out of date.
+**Collapse Aware AI (CAAI)** is proprietary middleware for **governed retained-state behavioural selection**.
 
-**WE HAVE BUILT an integrated retained-state selection system for controlled local managed evaluations.**
+The core idea is simple:
 
-The current accepted engineering line keeps the sealed Core Gold / Crown selector frozen while adding an external Phase-2 continuity and evidence stack around it.
+> **Retained history is eligible evidence, not automatic authority.**
 
-In controlled synthetic evaluation the current system has demonstrated:
+A host supplies the current situation and the behaviours/actions that are genuinely permitted. CAAI governs whether retained history should be allowed to change which permitted behaviour wins, while preserving a clean current-task/reference path and inspectable decision evidence.
 
+The current programme now has two distinct layers.
+
+## Core Gold Build
+
+The **Core Gold Build** is the frozen commercial selector foundation.
+
+Public-safe accepted capabilities in the integrated lineage include:
+
+- host-supplied permitted candidate selection;
+- reference and governed retained-state conditions;
+- persistence and recall across restart;
+- deterministic replay in tested conditions;
 - retained-state revision and revocation;
-- strong anchors and continuity memory;
-- deterministic session boot;
-- explicit evidence of whether boot state was reported as consumed, considered, ignored or not reported;
-- bounded ambiguity and clarification handling;
-- recall routing, judging, corrective recall and revoked-context protection;
-- agency-impact and productive-friction routing;
-- Evaluation Forge metrics and consolidated observability;
-- a formal Phase-2-to-Core integration contract;
-- a separate adapter boundary that does not contain a second selector;
-- live retained-state preparation against the real frozen selector;
-- real reference and governed selections through the accepted P8a/Core route;
-- durable private Decision Records;
-- customer-safe P8b Decision Records;
-- Phase-2 post-decision receipts linking state, private decisions and public evidence;
-- deterministic replay, restart persistence, duplicate protection and ambiguous-outcome reconciliation;
-- one guided localhost managed-evaluation workflow;
-- customer-safe JSON, HTML and PDF evidence export.
+- validation / bounded fallback;
+- durable decision identity and Decision Records;
+- customer-safe evidence projection;
+- managed evaluation and evidence export.
 
-The public-safe engineering chain is now:
+Core Gold is available for controlled evaluations, pilot, integration and licensing discussions.
 
-```text
-Host / evaluation scenario
-        ↓
-Phase-2 retained-state and continuity sidecar
-        ↓
-validated integration adapter
-        ↓
-frozen Core Gold / Crown selector
-        ↓
-durable private Decision Record
-        ↓
-customer-safe P8b Decision Record
-        ↓
-Phase-2 receipt + Evaluation Forge evidence
-```
+## Evolution 2
 
-The key distinction remains:
+**Evolution 2** is the richer continuity engineering branch built around the same governed-selection principle.
 
-> **Retained prior state can influence which permitted behaviour is selected while the reference condition and resulting evidence remain inspectable.**
+Current private engineering checkpoints include:
 
-### Controlled live result
+- structured ContinuityFrame interpretation;
+- bounded hybrid retained-state retrieval;
+- Open Loops / Reopen Semantics;
+- Interaction Fit;
+- suppression and bounded proactive controls;
+- Confidence / Clarification;
+- Contradiction / Change Surfacing;
+- record-only Outcomes;
+- Agent Self-History;
+- bounded turn-local behavioural signals;
+- Session Observation foundation;
+- Engineering Tuning;
+- a restart-safe local Engineer Model with microphone speech-to-text input.
 
-A controlled synthetic live integration test held the prompt, candidate set, candidate order, mapped thread and deterministic seed fixed across a reference and governed condition. The reference selected `candidate_A`; the governed retained-state condition selected `candidate_B`.
+A clean current-task/reference behaviour remains a genuine competitor to history-conditioned alternatives, and final selection authority remains separated from candidate generation.
 
-That demonstrates end-to-end live behavioural divergence through the accepted selector. It does **not** isolate the independent causal contribution of retained-state weighting versus governor mode because both declared condition settings changed.
+Evolution 2 remains an **Engineering build rather than a finished Production release**.
 
-### Current commercial boundary
+### Current CAAI public source
 
-The current integrated package is suitable for:
-
-- controlled technical demonstrations;
-- paid managed evaluations;
-- pilot discussions;
-- licensing discussions;
-- bounded buyer-supplied evaluation scenarios.
-
-It is **not** being represented as:
-
-- public SaaS;
-- production multi-tenancy;
-- a finished customer-hosted deployment;
-- high-availability or disaster-recovery certification;
-- remote-security certification;
-- regulatory certification;
-- AGI or consciousness;
-- proof of new physics;
-- universal model improvement.
-
-For the current public-safe engineering status, evidence boundary and commercial orientation, use the official CAAI proof repository:
+Use the canonical proof repository for current status, technical boundaries and licensing-facing material:
 
 ### [Collapse Aware AI — Public Proof Pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack)
 
 Recommended starting points:
 
-- [Public Reader Start Here](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/PUBLIC_READER_START_HERE.md)
-- [Current Engineering State — 7 August 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CURRENT_ENGINEERING_STATE_2026-08-07.md)
-- [Managed Evaluation Evidence — 7 August 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/MANAGED_EVALUATION_EVIDENCE_2026-08-07.md)
-- [Commercial Distinction and Evaluation Path](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/COMMERCIAL_DISTINCTION_AND_EVALUATION_PATH.md)
+- [CAAI Public Overview 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CAAI_PUBLIC_OVERVIEW_2026.md)
+- [Current Engineering State — 27 August 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CURRENT_ENGINEERING_STATE_2026-08-27.md)
+- [Canonical Public Overview](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/01_CANONICAL_OVERVIEW__Collapse_Aware_AI.md)
+- [Independent Stateful AI & Adaptive Systems Evaluation](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/INDEPENDENT_STATEFUL_AI_AND_ADAPTIVE_SYSTEMS_EVALUATION.md)
 
 ---
 
-# Verrell’s Law
+# Game / NPC and simulation direction
 
-Verrell’s Law remains a separate research programme.
+Games are a natural fit because the host already owns structured world truth: player/NPC identity, quests, witnessed events, permitted actions and save/restart state.
 
-Public-safe summary:
+The game remains authoritative for world truth and execution. CAAI can govern whether retained player/NPC history should influence which permitted behaviour wins.
 
-> **Retained state from prior interactions may influence later selection, producing history-conditioned divergence under matched present input.**
+The architecture is host-neutral and suitable for buyer-specific adapter work. It is not currently represented as a finished Unity, Unreal or Godot production SDK.
 
-The canonical first-order relation is:
+---
 
-```text
-ΔL = λΔR
-```
+# Verrell’s Law — separate research track
 
-The framework is proposed and falsifiable. It is not presented here as established new physics, a new force, proof of consciousness, electromagnetic memory, non-local personal memory or a universal law already confirmed across systems.
+Verrell’s Law is maintained separately as a proposed falsifiable retained-state selection research framework.
+
+CAAI does **not** depend on proving Verrell’s Law as physics. The software can be evaluated independently through runtime behaviour, controlled scenarios, persistence, replay and decision/evidence records.
 
 Primary research repository:
 
 ### [Verrell’s Law Research Archive](https://github.com/collapsefield/collapsefield-verrells-law)
 
-Canonical mathematical specification:
-
-### [Mathematical Foundations and Falsification Protocol v1.0](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md)
+The research and software tracks should not be conflated.
 
 ---
 
@@ -143,7 +106,7 @@ The public engineering-facing paper is maintained separately:
 
 ### [Memory-Weighted Selection](https://github.com/collapsefield/memory-weighted-selection)
 
-It formalises middleware-level memory-weighted candidate selection under explicit constraints without disclosing the private Crown implementation.
+It formalises middleware-level retained-state candidate selection under explicit constraints without disclosing the private Crown/Core implementation.
 
 ---
 
@@ -153,27 +116,27 @@ It formalises middleware-level memory-weighted candidate selection under explici
 |---|---|
 | [collapse-aware-ai-public-proof-pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack) | **Canonical current public CAAI engineering, proof, evaluation and licensing-facing record.** |
 | [memory-weighted-selection](https://github.com/collapsefield/memory-weighted-selection) | Engineering paper and public reference formulation. |
-| [collapsefield-verrells-law](https://github.com/collapsefield/collapsefield-verrells-law) | Canonical Verrell’s Law research and falsification archive. |
-| [CollapseAwareAI_Emergence_PublicArchive](https://github.com/collapsefield/CollapseAwareAI_Emergence_PublicArchive) | Historical CAAI public archive; not current engineering authority. |
-| [collapsefield-CollapseAware-Experiments](https://github.com/collapsefield/collapsefield-CollapseAware-Experiments) | Historical experimental material; not current engineering authority. |
-| [verrells-law-einstein-informational-tensor](https://github.com/collapsefield/verrells-law-einstein-informational-tensor) | Historical / exploratory physics-facing work; not required to evaluate CAAI. |
+| [CollapseAwareAI_Emergence_PublicArchive](https://github.com/collapsefield/CollapseAwareAI_Emergence_PublicArchive) | Historical CAAI archive with a 2026 successor overview; not current engineering authority. |
+| [collapsefield-verrells-law](https://github.com/collapsefield/collapsefield-verrells-law) | Separate Verrell’s Law research / falsification archive. |
+| [collapsefield-CollapseAware-Experiments](https://github.com/collapsefield/collapsefield-CollapseAware-Experiments) | Historical experimental material. |
 
 ---
 
-# Public and proprietary boundary
+# Public / proprietary boundary
 
-Public repositories document architecture, provenance, evidence classes, tested capabilities and commercial orientation.
+Public repositories document architecture, provenance, evidence classes, tested capability and commercial orientation.
 
 They do not disclose:
 
-- Crown source code;
+- Crown/Core source code;
 - private scoring implementation;
-- private thresholds and tuning;
-- credentials;
-- production secrets;
-- complete integration mechanics sufficient to clone the proprietary system.
+- exact private thresholds / tuning;
+- credentials or secrets;
+- private runtime packages;
+- unrestricted internal schemas;
+- implementation detail sufficient to clone the commercial system.
 
-CAAI is proprietary commercial middleware. Full software handover or runnable proprietary components are provided only under appropriate evaluation, pilot, licensing or other commercial agreement.
+CAAI is proprietary commercial middleware. Full runnable components are provided only under appropriate evaluation, pilot, licensing or other commercial agreement.
 
 ---
 
@@ -183,8 +146,6 @@ For CAAI paid evaluations, pilots, licensing or technical review:
 
 **collapseawareai@gmail.com**
 
-For research context and public provenance, use the repositories above.
-
 ---
 
-**Profile status updated:** 7 August 2026
+**Profile status updated:** 27 August 2026
