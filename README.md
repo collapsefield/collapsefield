@@ -7,6 +7,38 @@
 
 ---
 
+# Retained-State Selection
+
+The current public category-level language across the research and engineering programme is **Retained-State Selection**.
+
+> **Retained-State Selection is the controlled study or process by which information preserved from prior states is permitted to influence selection among presently available candidate outcomes.**
+
+The general idea of retained state is not claimed as original. Memory systems, stateful computing, hysteresis, path dependence, candidate scoring, policy engines and related methods have long precedents.
+
+The narrower focus here is:
+
+> **What should retained information be allowed to change when a later selection is made — and can that influence be isolated, measured, ablated and, in engineered systems, governed?**
+
+Public category / benchmark references:
+
+- [Retained-State Selection — Category and Terminology Note v1.0](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/RETAINED_STATE_SELECTION_CATEGORY_NOTE_v1.0.md)
+- [Retained-State Selection Benchmark v0.1](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/RETAINED_STATE_SELECTION_BENCHMARK_v0.1.md)
+- [Independent Convergence Map — Retained-State Selection, Agent Memory and Runtime Governance](https://github.com/collapsefield/memory-weighted-selection/blob/main/research_notes/INDEPENDENT_CONVERGENCE_MAP_2026-08-30.md)
+- [CAAI Retained-State Selection Commercial / Evaluation Index](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/00_RETAINED_STATE_SELECTION_COMMERCIAL_INDEX.md)
+
+The public hierarchy is:
+
+```text
+Retained-State Selection — category / problem
+Verrell’s Law — proposed falsifiable research framework
+Governed Retained-State Selection — engineering class
+Collapse Aware AI — proprietary implementation programme
+Core Gold — frozen commercial selector foundation
+Evolution 2 — richer continuity engineering branch
+```
+
+---
+
 # Collapse Aware AI — current engineering position
 
 **Collapse Aware AI (CAAI)** is proprietary middleware for **governed retained-state behavioural selection**.
@@ -69,8 +101,11 @@ Use the canonical proof repository for current status, technical boundaries and 
 
 Recommended starting points:
 
+- [Retained-State Selection Commercial / Evaluation Index](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/00_RETAINED_STATE_SELECTION_COMMERCIAL_INDEX.md)
 - [CAAI Public Overview 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CAAI_PUBLIC_OVERVIEW_2026.md)
 - [Current Engineering State — 27 August 2026](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/CURRENT_ENGINEERING_STATE_2026-08-27.md)
+- [Retained-State Decision Audit](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/RETAINED_STATE_DECISION_AUDIT.md)
+- [Local Selection Cost Measurement Protocol](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/LOCAL_SELECTION_COST_MEASUREMENT_PROTOCOL_v0.1.md)
 - [Canonical Public Overview](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/01_CANONICAL_OVERVIEW__Collapse_Aware_AI.md)
 - [Independent Stateful AI & Adaptive Systems Evaluation](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/INDEPENDENT_STATEFUL_AI_AND_ADAPTIVE_SYSTEMS_EVALUATION.md)
 
@@ -115,10 +150,12 @@ It formalises middleware-level retained-state candidate selection under explicit
 | Repository | Current role |
 |---|---|
 | [collapse-aware-ai-public-proof-pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack) | **Canonical current public CAAI engineering, proof, evaluation and licensing-facing record.** |
-| [memory-weighted-selection](https://github.com/collapsefield/memory-weighted-selection) | Engineering paper and public reference formulation. |
+| [memory-weighted-selection](https://github.com/collapsefield/memory-weighted-selection) | Engineering paper, convergence mapping and public reference formulation. |
 | [CollapseAwareAI_Emergence_PublicArchive](https://github.com/collapsefield/CollapseAwareAI_Emergence_PublicArchive) | Historical CAAI archive with a 2026 successor overview; not current engineering authority. |
-| [collapsefield-verrells-law](https://github.com/collapsefield/collapsefield-verrells-law) | Separate Verrell’s Law research / falsification archive. |
+| [collapsefield-verrells-law](https://github.com/collapsefield/collapsefield-verrells-law) | Separate Verrell’s Law research / falsification archive and retained-state selection benchmark/category record. |
 | [collapsefield-CollapseAware-Experiments](https://github.com/collapsefield/collapsefield-CollapseAware-Experiments) | Historical experimental material. |
+| [Verrells-Law-Drops](https://github.com/collapsefield/Verrells-Law-Drops) | Historical public-drop/authorship archive; older speculative wording preserved but demoted from current claim authority. |
+| [verrellslaw.org-beacon](https://github.com/collapsefield/verrellslaw.org-beacon) | Small current terminology/search index pointing readers to canonical sources. |
 
 ---
 
@@ -148,4 +185,4 @@ For CAAI paid evaluations, pilots, licensing or technical review:
 
 ---
 
-**Profile status updated:** 27 August 2026
+**Profile status updated:** 30 August 2026
