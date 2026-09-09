@@ -2,7 +2,6 @@
 
 **Public home for Collapse Aware AI™ (CAAI) and the separate Verrell’s Law research track**
 
-**Entity:** Inappropriate Media Limited  
 **Commercial contact:** collapseawareai@gmail.com
 
 ---
