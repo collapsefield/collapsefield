@@ -1,6 +1,6 @@
 # CollapseField
 
-## Collapse Aware AI™
+## Collapse Aware AI
 
 **Retained-state middleware for governed selection.**
 
