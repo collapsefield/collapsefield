@@ -4,7 +4,7 @@
 
 **Retained-state middleware for governed selection.**
 
-> **Collapse Aware AI™ is retained-state middleware for governed selection: the host supplies permitted candidate actions, retained history may influence which candidate wins, and final selection remains bounded, inspectable and replayable in tested conditions.**
+> **Collapse Aware AI is retained-state middleware for governed selection: the host supplies permitted candidate actions, retained history may influence which candidate wins, and final selection remains bounded, inspectable and replayable in tested conditions.**
 
 Core principle:
 
@@ -14,7 +14,7 @@ Core principle:
 
 ## Start Here
 
-### [Open the Collapse Aware AI™ Decision Lab](https://collapsefield.github.io/caai-decision-lab/)
+### [Open the Collapse Aware AI Decision Lab](https://collapsefield.github.io/caai-decision-lab/)
 
 The Decision Lab is a buyer-safe interactive demonstration of the selection boundary:
 
