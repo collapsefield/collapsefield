@@ -1,6 +1,48 @@
 # CollapseField
 
-## Collapse Aware AI
+**Two connected programmes. Two separate evidence tracks.**
+
+CollapseField is the public entry point for **Verrell’s Law research** and **Collapse Aware AI™ engineering**. Both investigate the influence of retained history on selection, but each stands on its own methods, evidence and claims.
+
+| Verrell’s Law — Research | Collapse Aware AI™ — Engineering |
+| --- | --- |
+| A falsifiable retained-state selection framework, with formal mathematics, measurement conditions and experimental protocols. | Proprietary retained-state middleware for governed selection among host-permitted candidates. |
+| [Research archive](https://github.com/collapsefield/collapsefield-verrells-law) · [Mathematical foundations](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md) | [CAAI public proof pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack) · [Interactive Decision Lab](https://collapsefield.github.io/caai-decision-lab/) |
+
+> **Shared question:** When the present conditions are equivalent, how can different retained histories change what is selected next — and how can that influence be measured, constrained or rejected?
+
+**Important distinction:** A software system intentionally designed to use retained history is engineering evidence about that software. It does not by itself establish the research hypothesis as a law of nature.
+
+---
+
+## Verrell’s Law — Research Programme
+
+Verrell’s Law examines **retained-state selection**: whether, under matched present conditions, independently specified and measurable differences in retained history yield directional, intervention-sensitive differences in subsequent selection.
+
+Its canonical exponential-tilt relation is:
+
+```math
+\Delta L = \lambda\Delta R
+```
+
+Here, `ΔL` is a candidate-relative change in selection log-odds, and `ΔR` is a predeclared retained-state compatibility difference. The relation is exact within its specified mathematical model; applying it to independent observations requires a separate empirical test.
+
+### Research reading path
+
+1. **[Start with the research archive](https://github.com/collapsefield/collapsefield-verrells-law)** — the current index, authorship record and historical material.
+2. **[Mathematical Foundations and Falsification Protocol](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md)** — canonical selection model and conditions under which it could fail.
+3. **[Mathematical Clarification Supplement v1.0](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md)** — refined statistical diagnostics, identification rules, normalization and evidence verdicts.
+4. **[Empirical Identification Clarification](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_EMPIRICAL_IDENTIFICATION_CLARIFICATION_v1.0.md)** — separation between independent empirical testing and engineered conformance.
+5. **[Analysis-Validation Tool v0.1.5](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_ANALYSIS_VALIDATION_v0.1.5_APPROVED_FOR_PUBLICATION_20261017.zip)** — downloadable reproducible Python synthetic-analysis test suite; **24/24 release-review tests passed**. It validates bounded analysis behaviour on generated data, not the hypothesis against real observations.
+6. **[Non-Markovian Information Paths — Technical Edition](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_NON_MARKOVIAN_INFORMATION_PATHS_TECHNICAL_EDITION_2026-09.md)** — physics-facing extension, distinct from a confirmed physical mechanism.
+
+The earlier [Einstein Informational Tensor archive](https://github.com/collapsefield/verrells-law-einstein-informational-tensor) is preserved as a historical extension, not the current canonical formulation. The broader research website is [verrellslaw.org](https://www.verrellslaw.org/).
+
+**Research position:** The framework is falsifiable and under development; independent, domain-specific construction of `R`, prospective controls, comparative prediction and replication remain scientific work to be done.
+
+---
+
+## Collapse Aware AI™ — Governed Selection
 
 **Retained-state middleware for governed selection.**
 
@@ -12,7 +54,7 @@ Core principle:
 
 ---
 
-## Start Here
+## Start Here — CAAI
 
 ### [Open the Collapse Aware AI Decision Lab](https://collapsefield.github.io/caai-decision-lab/)
 
@@ -108,4 +150,4 @@ They do not publish Crown/Core source, private scoring implementation, exact thr
 
 ---
 
-**Profile status updated:** 14 September 2026
+**Profile status updated:** 17 October 2026
