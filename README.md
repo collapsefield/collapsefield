@@ -2,7 +2,7 @@
 
 **Two connected programmes. Two separate evidence tracks.**
 
-CollapseField is the public entry point for **Verrell’s Law research** and **Collapse Aware AI™ engineering**. Both investigate the influence of retained history on selection, but each stands on its own methods, evidence and claims.
+CollapseField is the public entry point for **Verrell’s Law research** and **Collapse Aware AI engineering**. Both investigate the influence of retained history on selection, but each stands on its own methods, evidence and claims.
 
 | Verrell’s Law — Research | Collapse Aware AI™ — Engineering |
 | --- | --- |
