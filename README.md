@@ -42,6 +42,10 @@ The earlier [Einstein Informational Tensor archive](https://github.com/collapsef
 
 ---
 
+### Related engineering research paper
+
+[**Memory-Weighted Selection — research paper and source**](https://github.com/collapsefield/memory-weighted-selection) presents the public candidate-selection framework, reference mathematics, worked illustrations and evidence boundaries. The publication is distinct from proprietary CAAI Crown and from independent empirical tests of Verrell’s Law.
+
 ## Collapse Aware AI™ — Governed Selection
 
 **Retained-state middleware for governed selection.**
