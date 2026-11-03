@@ -34,9 +34,15 @@ Here, `ΔL` is a candidate-relative change in selection log-odds, and `ΔR` is a
 3. **[Mathematical Clarification Supplement v1.0](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md)** — refined statistical diagnostics, identification rules, normalization and evidence verdicts.
 4. **[Empirical Identification Clarification](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_EMPIRICAL_IDENTIFICATION_CLARIFICATION_v1.0.md)** — separation between independent empirical testing and engineered conformance.
 5. **[Analysis-Validation Tool v0.1.5](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_ANALYSIS_VALIDATION_v0.1.5_APPROVED_FOR_PUBLICATION_20261017.zip)** — downloadable reproducible Python synthetic-analysis test suite; **24/24 release-review tests passed**. It validates bounded analysis behaviour on generated data, not the hypothesis against real observations.
-6. **[Non-Markovian Information Paths — Technical Edition](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_NON_MARKOVIAN_INFORMATION_PATHS_TECHNICAL_EDITION_2026-09.md)** — physics-facing extension, distinct from a confirmed physical mechanism.
+6. **[Mathematical Clarifications and Open Problems — 31 October 2026](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/MATHEMATICAL_CLARIFICATIONS_AND_OPEN_PROBLEMS_v1.0.md)** — exact selection identities, parameter identification, thermodynamic assumptions and memory-kernel test conditions.
+7. **[November Research Status and Testing Note — 2 November 2026](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_RESEARCH_STATUS_AND_TESTING_2026-11.md)** — the latest mathematical review, competing memory mechanisms and the next comparative experiments.
+8. **[Non-Markovian Information Paths — Technical Edition](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_NON_MARKOVIAN_INFORMATION_PATHS_TECHNICAL_EDITION_2026-09.md)** — physics-facing treatment of history-dependent dynamics, physical weighting and memory kernels.
 
-The earlier [Einstein Informational Tensor archive](https://github.com/collapsefield/verrells-law-einstein-informational-tensor) is preserved as a historical extension, not the current canonical formulation. The broader research website is [verrellslaw.org](https://www.verrellslaw.org/).
+### Field-mediated memory and physical research
+
+The retained-state formulation remains open to **field-mediated memory and history-dependent effects**, including electromagnetic, biological, environmental and quantum-system contributions where measurable. These are active research directions alongside the formal selection model; their roles, physical mechanisms and predictive signatures are to be examined separately. See the [retained-state mechanism and field boundary](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md) and the [physics-facing technical edition](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_NON_MARKOVIAN_INFORMATION_PATHS_TECHNICAL_EDITION_2026-09.md).
+
+The earlier [Einstein Informational Tensor archive](https://github.com/collapsefield/verrells-law-einstein-informational-tensor) is preserved as part of the development history. The broader research website is [verrellslaw.org](https://www.verrellslaw.org/).
 
 **Research position:** The framework is falsifiable and under development; independent, domain-specific construction of `R`, prospective controls, comparative prediction and replication remain scientific work to be done.
 
@@ -112,9 +118,9 @@ The central buyer question is:
 
 ## Core Gold
 
-Core Gold is the frozen current commercial selector foundation.
+Core Gold is the frozen commercial selector foundation, with the current R1 candidate undergoing independent verification before broader commercial claims are finalised.
 
-Public-safe accepted capabilities in the integrated lineage include:
+The engineering lineage and R1 acceptance programme cover:
 
 - host-supplied permitted candidate selection;
 - reference and governed retained-state conditions;
@@ -126,7 +132,7 @@ Public-safe accepted capabilities in the integrated lineage include:
 - customer-safe evidence projection;
 - managed evaluation and evidence export.
 
-Core Gold is available for controlled evaluation, buyer-specific pilot, integration and licensing discussion.
+Core Gold is open for controlled evaluation and licensing discussions, with live pilot and integration commitments dependent on the frozen-build audit evidence.
 
 ---
 
@@ -154,4 +160,4 @@ They do not publish Crown/Core source, private scoring implementation, exact thr
 
 ---
 
-**Profile status updated:** 17 October 2026
+**Profile status updated:** 3 November 2026
