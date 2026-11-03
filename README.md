@@ -118,9 +118,9 @@ The central buyer question is:
 
 ## Core Gold
 
-Core Gold is the frozen commercial selector foundation, with the current R1 candidate undergoing independent verification before broader commercial claims are finalised.
+Core Gold is the frozen commercial selector foundation. **Core Gold Frozen v2.0** is the current build designation for the next controlled evaluation release.
 
-The engineering lineage and R1 acceptance programme cover:
+The Core Gold engineering programme covers:
 
 - host-supplied permitted candidate selection;
 - reference and governed retained-state conditions;
@@ -132,7 +132,7 @@ The engineering lineage and R1 acceptance programme cover:
 - customer-safe evidence projection;
 - managed evaluation and evidence export.
 
-Core Gold is open for controlled evaluation and licensing discussions, with live pilot and integration commitments dependent on the frozen-build audit evidence.
+Core Gold is presented for controlled evaluations, buyer-specific pilot scoping, integration and licensing discussions.
 
 ---
 
