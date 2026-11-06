@@ -154,7 +154,8 @@ They do not publish Crown/Core source, private scoring implementation, exact thr
 
 ## Contact
 
-**collapseawareai@gmail.com**
+- **New Collapse Aware AI™ middleware enquiries and technical correspondence:** [hello@verrellslaw.org](mailto:hello@verrellslaw.org).
+- **Existing correspondence and general enquiries:** [collapseawareai@gmail.com](mailto:collapseawareai@gmail.com).
 
 > **Think you have a decision like this? Send us a one-sentence description.**
 
