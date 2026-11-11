@@ -1,17 +1,27 @@
+<div align="center">
+
 # CollapseField
 
-**Two connected programmes. Two separate evidence tracks.**
+**Independent research · Governed AI engineering**
 
-CollapseField is the public entry point for **Verrell’s Law research** and **Collapse Aware AI engineering**. Both investigate the influence of retained history on selection, but each stands on its own methods, evidence and claims.
+### Two programmes. Separate evidence. One clear route to each.
 
-| Verrell’s Law — Research | Collapse Aware AI™ — Engineering |
-| --- | --- |
-| A falsifiable retained-state selection framework, with formal mathematics, measurement conditions and experimental protocols. | Proprietary retained-state middleware for governed selection among host-permitted candidates. |
-| [Research archive](https://github.com/collapsefield/collapsefield-verrells-law) · [Mathematical foundations](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md) | [CAAI public proof pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack) · [Interactive Decision Lab](https://collapsefield.github.io/caai-decision-lab/) |
+[**Explore Verrell’s Law**](https://github.com/collapsefield/collapsefield-verrells-law) · [**Explore Collapse Aware AI**](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack) · [**Open the Decision Lab**](https://collapsefield.github.io/caai-decision-lab/)
 
-> **Shared question:** When the present conditions are equivalent, how can different retained histories change what is selected next — and how can that influence be measured, constrained or rejected?
+</div>
 
-**Important distinction:** A software system intentionally designed to use retained history is engineering evidence about that software. It does not by itself establish the research hypothesis as a law of nature.
+---
+
+| **VERRELL’S LAW — RESEARCH** | **COLLAPSE AWARE AI — SOFTWARE** |
+| :--- | :--- |
+| **A Retained-State Selection Framework** | **Governed Retained-State Behavioural-Selection Middleware** |
+| Tests whether retained history changes later selection under matched present conditions. | Builds bounded, host-controlled selection among permitted actions. |
+| Mathematical specification, independent comparators and falsifiable predictions. | Engineering evidence, demonstrations, audit status and evaluation pathway. |
+| [Research archive](https://github.com/collapsefield/collapsefield-verrells-law) | [Public proof pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack) |
+
+> **The key distinction:** Verrell’s Law is a research framework to be tested against established models. CAAI is a separate proprietary engineering product to be judged on verified operation and customer outcomes. Neither establishes the other.
+
+**Research enquiries:** [hello@verrellslaw.org](mailto:hello@verrellslaw.org) · **CAAI evaluation and licensing:** [collapseawareai@gmail.com](mailto:collapseawareai@gmail.com)
 
 ---
 
@@ -161,4 +171,4 @@ They do not publish Crown/Core source, private scoring implementation, exact thr
 
 ---
 
-**Profile status updated:** 3 November 2026
+**Profile navigation refreshed:** 11 November 2026 · Historic documents and technical claims retained.
