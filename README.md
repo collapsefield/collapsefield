@@ -128,7 +128,7 @@ The central buyer question is:
 
 ## Core Gold
 
-Core Gold is the frozen commercial selector foundation. **Core Gold Frozen v2.0** is the current build designation for the next controlled evaluation release.
+The original frozen Core Gold build completed an engineering evaluation stage, informing the next iteration. **Core Gold v2** is the current frozen evaluation build undergoing independent audit, with subsequent customer claims based on the verified results.
 
 The Core Gold engineering programme covers:
 
